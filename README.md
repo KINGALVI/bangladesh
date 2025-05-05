@@ -1,4 +1,4 @@
-# 🇧🇩 Bangladesh Flag Representation
+# Bangladesh Flag Representation
 
 ## 📌 Overview
 This project visually represents the **Bangladesh national flag** using **HTML & CSS**. It consists of a **green background** symbolizing the lush greenery of Bangladesh and a **red circle** representing the blood of those who fought for the country's independence. The project utilizes **modern CSS techniques** to ensure responsiveness and accurate flag dimensions.
