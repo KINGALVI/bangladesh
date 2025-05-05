@@ -1,27 +1,31 @@
+/* Styles for the entire body */
 body {
-  background-color: black;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+  background-color: black; /* Sets the background color to black */
+  display: flex; /* Uses flexbox for layout */
+  justify-content: center; /* Centers content horizontally */
+  align-items: center; /* Centers content vertically */
+  height: 100vh; /* Ensures full viewport height */
 }
 
+/* Outer container styling */
 .BD1 {
-  background-color: rgb(3, 87, 3);
-  height: 50vh;
-  width: 45vw;
+  background-color: rgb(3, 87, 3); /* Dark green background */
+  height: 50vh; /* Sets height to 50% of the viewport */
+  width: 45vw; /* Sets width to 45% of the viewport */
 }
 
+/* Inner container for positioning */
 .BD2 {
-  display: flex;
-  justify-content: center;
-  padding-top: 8vh;
+  display: flex; /* Uses flexbox for alignment */
+  justify-content: center; /* Centers content horizontally */
+  padding-top: 8vh; /* Adds spacing from the top */
 }
 
+/* Inner-most container (Red Circle) */
 .BD3 {
-  background-color: red;
-  height: 30vh;
-  width: 15vw;
-  border: 50px;
-  border-radius: 100px;
+  background-color: red; /* Sets a red background */
+  height: 30vh; /* Defines the height */
+  width: 15vw; /* Defines the width */
+  border: 50px; /* add a border */
+  border-radius: 100px; /* Rounds the corners, creating an oval */
 }
