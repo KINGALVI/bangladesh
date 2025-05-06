@@ -1,14 +1,24 @@
-.alvi1{
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.BD1 {
   background-color: green;
   height: 50vh;
   width: 45vw;
 }
-.alvi2{
+
+.BD2 {
   display: flex;
   justify-content: center;
   padding-top: 8vh;
 }
-.alvi3{
+
+.BD3 {
   background-color: red;
   height: 30vh;
   width: 15vw;
